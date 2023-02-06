@@ -13,7 +13,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
- 
+
 #include "quantum.h"
 
 // clang-format off
@@ -41,7 +41,7 @@ const ckled2001_led g_ckled2001_leds[DRIVER_LED_TOTAL] = {
     {0, H_15,   I_15,   G_15},
     {0, I_16,   G_16,   H_16},
     {1, A_2,    B_2,    C_2,},
-    
+
     {0, C_1,    A_1,    B_1},
     {0, A_2,    B_2,    C_2},
     {0, B_3,    C_3,    A_3},
@@ -140,7 +140,7 @@ led_config_t g_led_config = {
         4,    4,    4,    4,    4,    4,    4,    4,    4,    4,    4,    4,    4,          4,    4,    4,
         4,    8,    8,    8,    4,    4,    4,    4,    4,    4,    4,    4,    4,    4,    4,    4,    4,
         4,    4,    4,    4,    4,    4,    4,    4,    4,    4,    4,    4,    4,    4,    4,    4,    4,
-        4,    4,    4,    4,    4,    4,    4,    4,    4,    4,    4,    4,          4,         
+        4,    4,    4,    4,    4,    4,    4,    4,    4,    4,    4,    4,          4,
         4,          4,    4,    4,    4,    4,    4,    4,    4,    4,    4,          4,          4,
         4,    4,    4,                      4,                      4,    4,    4,    4,    4,    4,    4
 	}

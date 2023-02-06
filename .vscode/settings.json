@@ -27,5 +27,19 @@
     "python.formatting.provider": "yapf",
     "[json]": {
 	    "editor.formatOnSave": false
-    }
+    },
+    "favorites.resources": [
+        {
+            "filePath": "keyboards\\keychron",
+            "group": "Default"
+        },
+        {
+            "filePath": "keyboards\\keychron\\k4_pro",
+            "group": "Default"
+        },
+        {
+            "filePath": "keyboards\\keychron\\k8_pro",
+            "group": "Default"
+        }
+    ]
 }
