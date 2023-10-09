@@ -14,7 +14,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include "k4_pro.h"
+#include "k8_pro.h"
 #ifdef BLUETOOTH_ENABLE
 #    include "ckbt51.h"
 #    include "bluetooth.h"
